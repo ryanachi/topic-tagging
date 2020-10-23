@@ -1,6 +1,7 @@
 # Topic Tagging
 
 CS 230 Final Project Fall 2020
+
 Predicting tags based on QAS forum posts using CNNs.
 
 ## Setup
